@@ -1,0 +1,12 @@
+F:\DesignPatterns\DesignPatterns\SingletonDp\bin\Debug\net6.0\SingletonDp.deps.json
+F:\DesignPatterns\DesignPatterns\SingletonDp\bin\Debug\net6.0\SingletonDp.dll
+F:\DesignPatterns\DesignPatterns\SingletonDp\bin\Debug\net6.0\SingletonDp.pdb
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.csproj.AssemblyReference.cache
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.AssemblyInfoInputs.cache
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.AssemblyInfo.cs
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.csproj.CoreCompileInputs.cache
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.dll
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\refint\SingletonDp.dll
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\SingletonDp.pdb
+F:\DesignPatterns\DesignPatterns\SingletonDp\obj\Debug\net6.0\ref\SingletonDp.dll

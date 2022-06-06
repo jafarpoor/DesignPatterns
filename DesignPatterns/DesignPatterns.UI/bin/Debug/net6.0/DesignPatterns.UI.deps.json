@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesignPatterns.UI/1.0.0": {
+        "dependencies": {
+          "SingletonDp": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.UI.dll": {}
+        }
+      },
+      "SingletonDp/1.0.0": {
+        "runtime": {
+          "SingletonDp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonDp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
