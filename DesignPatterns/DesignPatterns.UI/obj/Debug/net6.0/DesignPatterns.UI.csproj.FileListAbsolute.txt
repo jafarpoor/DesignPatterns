@@ -3,7 +3,11 @@ F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DesignPatter
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DesignPatterns.UI.runtimeconfig.json
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DesignPatterns.UI.dll
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DesignPatterns.UI.pdb
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\FacadeDp.dll
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\FactoryDp.dll
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\SingletonDp.dll
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\FacadeDp.pdb
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\FactoryDp.pdb
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\SingletonDp.pdb
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\DesignPatterns.UI.csproj.AssemblyReference.cache
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\DesignPatterns.UI.GeneratedMSBuildEditorConfig.editorconfig

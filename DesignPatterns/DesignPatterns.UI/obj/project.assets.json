@@ -2,6 +2,26 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "FacadeDp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FacadeDp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FacadeDp.dll": {}
+        }
+      },
+      "FactoryDp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FactoryDp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryDp.dll": {}
+        }
+      },
       "SingletonDp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +35,16 @@
     }
   },
   "libraries": {
+    "FacadeDp/1.0.0": {
+      "type": "project",
+      "path": "../FacadeDp/FacadeDp.csproj",
+      "msbuildProject": "../FacadeDp/FacadeDp.csproj"
+    },
+    "FactoryDp/1.0.0": {
+      "type": "project",
+      "path": "../FactoryDp/FactoryDp.csproj",
+      "msbuildProject": "../FactoryDp/FactoryDp.csproj"
+    },
     "SingletonDp/1.0.0": {
       "type": "project",
       "path": "../SingletonDp/SingletonDp.csproj",
@@ -23,6 +53,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FacadeDp >= 1.0.0",
+      "FactoryDp >= 1.0.0",
       "SingletonDp >= 1.0.0"
     ]
   },
@@ -53,6 +85,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "F:\\DesignPatterns\\DesignPatterns\\FacadeDp\\FacadeDp.csproj": {
+              "projectPath": "F:\\DesignPatterns\\DesignPatterns\\FacadeDp\\FacadeDp.csproj"
+            },
+            "F:\\DesignPatterns\\DesignPatterns\\FactoryDp\\FactoryDp.csproj": {
+              "projectPath": "F:\\DesignPatterns\\DesignPatterns\\FactoryDp\\FactoryDp.csproj"
+            },
             "F:\\DesignPatterns\\DesignPatterns\\SingletonDp\\SingletonDp.csproj": {
               "projectPath": "F:\\DesignPatterns\\DesignPatterns\\SingletonDp\\SingletonDp.csproj"
             }

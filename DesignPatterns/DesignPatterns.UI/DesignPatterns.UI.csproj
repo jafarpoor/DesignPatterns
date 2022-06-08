@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FacadeDp\FacadeDp.csproj" />
+    <ProjectReference Include="..\FactoryDp\FactoryDp.csproj" />
     <ProjectReference Include="..\SingletonDp\SingletonDp.csproj" />
   </ItemGroup>
 

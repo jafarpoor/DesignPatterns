@@ -1,0 +1,12 @@
+F:\DesignPatterns\DesignPatterns\FactoryDp\bin\Debug\net6.0\FactoryDp.deps.json
+F:\DesignPatterns\DesignPatterns\FactoryDp\bin\Debug\net6.0\FactoryDp.dll
+F:\DesignPatterns\DesignPatterns\FactoryDp\bin\Debug\net6.0\FactoryDp.pdb
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.csproj.AssemblyReference.cache
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.AssemblyInfoInputs.cache
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.AssemblyInfo.cs
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.csproj.CoreCompileInputs.cache
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.dll
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\refint\FactoryDp.dll
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\FactoryDp.pdb
+F:\DesignPatterns\DesignPatterns\FactoryDp\obj\Debug\net6.0\ref\FactoryDp.dll

@@ -1,0 +1,12 @@
+F:\DesignPatterns\DesignPatterns\FacadeDp\bin\Debug\net6.0\FacadeDp.deps.json
+F:\DesignPatterns\DesignPatterns\FacadeDp\bin\Debug\net6.0\FacadeDp.dll
+F:\DesignPatterns\DesignPatterns\FacadeDp\bin\Debug\net6.0\FacadeDp.pdb
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.csproj.AssemblyReference.cache
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.AssemblyInfoInputs.cache
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.AssemblyInfo.cs
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.csproj.CoreCompileInputs.cache
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.dll
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\refint\FacadeDp.dll
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\FacadeDp.pdb
+F:\DesignPatterns\DesignPatterns\FacadeDp\obj\Debug\net6.0\ref\FacadeDp.dll
