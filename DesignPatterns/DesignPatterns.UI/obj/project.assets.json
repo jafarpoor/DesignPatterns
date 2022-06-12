@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "DecoratorDp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DecoratorDp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DecoratorDp.dll": {}
+        }
+      },
       "FacadeDp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -35,6 +45,11 @@
     }
   },
   "libraries": {
+    "DecoratorDp/1.0.0": {
+      "type": "project",
+      "path": "../DecoratorDp/DecoratorDp.csproj",
+      "msbuildProject": "../DecoratorDp/DecoratorDp.csproj"
+    },
     "FacadeDp/1.0.0": {
       "type": "project",
       "path": "../FacadeDp/FacadeDp.csproj",
@@ -53,6 +68,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DecoratorDp >= 1.0.0",
       "FacadeDp >= 1.0.0",
       "FactoryDp >= 1.0.0",
       "SingletonDp >= 1.0.0"
@@ -85,6 +101,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "F:\\DesignPatterns\\DesignPatterns\\DecoratorDp\\DecoratorDp.csproj": {
+              "projectPath": "F:\\DesignPatterns\\DesignPatterns\\DecoratorDp\\DecoratorDp.csproj"
+            },
             "F:\\DesignPatterns\\DesignPatterns\\FacadeDp\\FacadeDp.csproj": {
               "projectPath": "F:\\DesignPatterns\\DesignPatterns\\FacadeDp\\FacadeDp.csproj"
             },

@@ -20,3 +20,5 @@ F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\refint\Desig
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\DesignPatterns.UI.pdb
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\DesignPatterns.UI.genruntimeconfig.cache
 F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\obj\Debug\net6.0\ref\DesignPatterns.UI.dll
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DecoratorDp.dll
+F:\DesignPatterns\DesignPatterns\DesignPatterns.UI\bin\Debug\net6.0\DecoratorDp.pdb

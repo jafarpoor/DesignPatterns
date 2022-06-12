@@ -1,0 +1,12 @@
+F:\DesignPatterns\DesignPatterns\DecoratorDp\bin\Debug\net6.0\DecoratorDp.deps.json
+F:\DesignPatterns\DesignPatterns\DecoratorDp\bin\Debug\net6.0\DecoratorDp.dll
+F:\DesignPatterns\DesignPatterns\DecoratorDp\bin\Debug\net6.0\DecoratorDp.pdb
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.csproj.AssemblyReference.cache
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.AssemblyInfoInputs.cache
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.AssemblyInfo.cs
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.csproj.CoreCompileInputs.cache
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.dll
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\refint\DecoratorDp.dll
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\DecoratorDp.pdb
+F:\DesignPatterns\DesignPatterns\DecoratorDp\obj\Debug\net6.0\ref\DecoratorDp.dll

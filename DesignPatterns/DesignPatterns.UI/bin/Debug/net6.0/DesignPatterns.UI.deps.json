@@ -8,12 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "DesignPatterns.UI/1.0.0": {
         "dependencies": {
+          "DecoratorDp": "1.0.0",
           "FacadeDp": "1.0.0",
           "FactoryDp": "1.0.0",
           "SingletonDp": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.UI.dll": {}
+        }
+      },
+      "DecoratorDp/1.0.0": {
+        "runtime": {
+          "DecoratorDp.dll": {}
         }
       },
       "FacadeDp/1.0.0": {
@@ -35,6 +41,11 @@
   },
   "libraries": {
     "DesignPatterns.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorDp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
