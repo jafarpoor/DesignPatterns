@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{D7F923B6-17DF-4843-BD2C-2A740024EE7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{D7F923B6-17DF-4843-BD2C-2A740024EE7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{25D49DE6-1FFF-40CC-9DEE-253177CC3E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade_In_Asp.Net", "Facade\Facade_In_Asp.Net\Facade_In_Asp.Net.csproj", "{16D86349-669C-430A-8064-7B22A84DEADB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{55376651-60CC-4D53-BB25-44A22F0B7CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Facade\Application\Application.csproj", "{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,22 @@ Global
 		{D7F923B6-17DF-4843-BD2C-2A740024EE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F923B6-17DF-4843-BD2C-2A740024EE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F923B6-17DF-4843-BD2C-2A740024EE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D86349-669C-430A-8064-7B22A84DEADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D86349-669C-430A-8064-7B22A84DEADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D86349-669C-430A-8064-7B22A84DEADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D86349-669C-430A-8064-7B22A84DEADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16D86349-669C-430A-8064-7B22A84DEADB} = {25D49DE6-1FFF-40CC-9DEE-253177CC3E79}
+		{55376651-60CC-4D53-BB25-44A22F0B7CA6} = {25D49DE6-1FFF-40CC-9DEE-253177CC3E79}
+		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425} = {55376651-60CC-4D53-BB25-44A22F0B7CA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A9E384AB-4FFB-4312-BFFB-1EE3149CE97B}

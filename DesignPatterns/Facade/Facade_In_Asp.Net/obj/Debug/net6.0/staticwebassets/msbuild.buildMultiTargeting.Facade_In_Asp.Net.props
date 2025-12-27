@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Facade_In_Asp.Net.props" />
+</Project>

@@ -1,0 +1,11 @@
+E:\DesignPatterns\DesignPatterns\Facade\Application\bin\Debug\net6.0\Application.deps.json
+E:\DesignPatterns\DesignPatterns\Facade\Application\bin\Debug\net6.0\Application.dll
+E:\DesignPatterns\DesignPatterns\Facade\Application\bin\Debug\net6.0\Application.pdb
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.dll
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\refint\Application.dll
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\Application.pdb
+E:\DesignPatterns\DesignPatterns\Facade\Application\obj\Debug\net6.0\ref\Application.dll
