@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{25D49DE6-1FFF-40CC-9DEE-253177CC3E79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade_In_Asp.Net", "Facade\Facade_In_Asp.Net\Facade_In_Asp.Net.csproj", "{16D86349-669C-430A-8064-7B22A84DEADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade_In_Asp.Net", "Facade\Facade_In_Asp.Net\Facade_In_Asp.Net.csproj", "{16D86349-669C-430A-8064-7B22A84DEADB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{55376651-60CC-4D53-BB25-44A22F0B7CA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Facade\Application\Application.csproj", "{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Facade\Application\Application.csproj", "{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{7C32C012-7E2C-48A4-A80E-B2FE639A7317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F34425F-70A2-40B9-AD57-FBE4B3F9A425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C32C012-7E2C-48A4-A80E-B2FE639A7317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C32C012-7E2C-48A4-A80E-B2FE639A7317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C32C012-7E2C-48A4-A80E-B2FE639A7317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C32C012-7E2C-48A4-A80E-B2FE639A7317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
